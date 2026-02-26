@@ -1,5 +1,4 @@
-# aitruthlayer
-AI-powered real-time liquidation risk scoring infrastructure for DeFi protocols
+
 # AI Truth Layer
 
 AI-powered real-time liquidation risk scoring infrastructure for DeFi protocols on Arbitrum.
