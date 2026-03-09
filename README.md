@@ -1,9 +1,14 @@
 
 # AI Truth Layer
 
-AI-powered real-time liquidation risk scoring infrastructure for DeFi protocols on Arbitrum.
+AI-powered real-time liquidation risk scoring infrastructure for DeFi protocols
 
----
+AI Truth Layer
+        │
+        ├ TruthScore
+        ├ Liquidation Radar
+        ├ Oracle Divergence
+        └ Truth Index
 
 ## Overview
 
